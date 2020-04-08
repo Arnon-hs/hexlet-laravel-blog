@@ -1,4 +1,4 @@
-@extends('app')
+@extends('layouts.app')
 
 <!-- Секция, содержимое которой обычный текст. -->
 @section('title', 'О блоге')

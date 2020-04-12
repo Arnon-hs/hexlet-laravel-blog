@@ -8,7 +8,7 @@
 
 
 <ol>
-	@foreach($articles as $article)
+	@foreach($article as $article)
 		<li>
 			<a href="{{ route('article_categories.show' )}}">
 				{{$article->name}}

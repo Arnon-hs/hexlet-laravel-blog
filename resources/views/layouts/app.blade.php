@@ -23,7 +23,8 @@
             <div class="menu">
                 <ul class="menu_ul">
                     <li><a href="/article">Article</a></li>
-					<li><a href="/articles/2">Article 2</a></li>
+                    <li><a href="/articles/create">Add new</a></li>
+					<li><a href="/articles/2">Article 2</a></li> 
                     <li><a href="/rating">Rating</a></li>
                     <li><a href="/about">About</a></li>
                 </ul>
